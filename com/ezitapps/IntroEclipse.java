@@ -1,4 +1,6 @@
-
+/*
+ * 
+ */
 package com.ezitapps;
 
 public class IntroEclipse {
@@ -26,6 +28,9 @@ public class IntroEclipse {
 		
 		
 	}
+	/*
+	 * 
+	 */
 	
 	public static void printResult(String fName, String lName){
 		System.out.println("You first name is " + fName + " and your last name is " + lName);
