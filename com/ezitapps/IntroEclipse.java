@@ -8,13 +8,13 @@ public class IntroEclipse {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		System.out.println("This is the Intro Eclipse Assignment for class CEN 3040");
+		System.out.println("This is the Intro Eclipse Assignment for class CEN3040");
 		
 		String fName = "";
 		String lName = "";
 		
 		if (args == null || args.length < 2) {
-			System.out.println("We need to arguments to make this work.");
+			System.out.println("We need to arguments to make this work!");
 		} else {
 			fName = args[0];
 			lName = args[1];
